@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303371961015",
+    "project_id": "test-ef649",
+    "storage_bucket": "test-ef649.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303371961015:android:93857c0131d9c01ca14332",
+        "android_client_info": {
+          "package_name": "com.example.youtube_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD36oMdWeTAJsd2FufcKe0Ov7xS04K9Z1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
